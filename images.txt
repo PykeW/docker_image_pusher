@@ -1,1 +1,1 @@
-ubuntu.tar
+3.10.14-bookworm
