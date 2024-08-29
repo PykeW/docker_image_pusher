@@ -1,2 +1,2 @@
 ubuntu:latest
-Node.js:22.7.0
+Node.js:latest
