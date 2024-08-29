@@ -1,2 +1,2 @@
 ubuntu:latest
-Node.js:latest
+Node:latest
