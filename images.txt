@@ -1,1 +1,1 @@
-node:20.14.0-slim
+alpine:3.20.2
