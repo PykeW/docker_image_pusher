@@ -1,1 +1,1 @@
-Node:latest
+Node:22.7
