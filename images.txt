@@ -1,1 +1,1 @@
-python:3.10.14-slim-bullseye
+nvidia/cuda:11.6.2-base-ubuntu20.04
