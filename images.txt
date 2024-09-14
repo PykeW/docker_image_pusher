@@ -1,1 +1,1 @@
-cuda:12.6-base nvidia-smi
+nvidia/cuda:11.6.2-base-ubuntu20.04
